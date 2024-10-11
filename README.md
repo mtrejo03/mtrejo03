@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Milly
 =============================================================================================================================
 
-I am currently a Senior at the University of North Alabama pursuing a degree in Computer Information Systems. My current hobbies include filming creative videos & photo/video editing.
+I am currently a **Senior** at the University of North Alabama pursuing a degree in Computer Information Systems. My current hobbies include filming creative videos & photo/video editing.
 
 *   🌍  I'm based in Florence, Alabama
 *   ✉️  You can contact me at [millydtrejo@gmail.com](mailto:millydtrejo@gmail.com)
