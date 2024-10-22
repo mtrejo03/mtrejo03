@@ -1,0 +1,45 @@
+footer{
+    position: static;
+}
+
+#Milly{
+    font-size: 45px;
+    color: #DB7093;
+    text-shadow: 1px 1px 3px black;
+
+}
+
+p {
+    font-family: "Trirong", serif;
+}
+
+h1{
+    text-shadow: 2px 2px 5px blue;
+}
+
+h3{
+   color: #191970;
+}
+
+h5{
+    color: #191970;
+}
+
+#design-image{
+    max-width: 70%;
+    height: auto;
+    margin-top: 40px;
+    border-radius: 8px;
+    display: block;    
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#cardicons {
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
