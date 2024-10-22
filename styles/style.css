@@ -35,7 +35,16 @@ h5{
     margin-right: auto;
 }
 
-#cardicons {
+#cardicons1 {
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#cardicons2 {
     border-radius: 4px;
     padding: 5px;
     width: 150px;
